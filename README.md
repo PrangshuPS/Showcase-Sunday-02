@@ -30,3 +30,7 @@ No internet. No cloud. Just a tiny camera doing smart stuff all by itself.
    On boot, the ESP32-CAM captures images, runs inference, and prints bounding box results via Serial Monitor.
 
 ---
+
+---
+# For more details, refer to the [Edge Impulse](https://docs.edgeimpulse.com/docs)
+---
