@@ -15,7 +15,7 @@ No internet. No cloud. Just a tiny camera doing smart stuff all by itself.
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Dataset Creation:**  
    Custom images of an eraser and an ESP32 board were captured and uploaded to Edge Impulse.
