@@ -1,5 +1,5 @@
 # Showcase-Sunday-02
-# Object Recognition with ESP32-CAM using TinyML
+## Object Recognition with ESP32-CAM using TinyML
 This project demonstrates real-time object recognition using **Edge Impulse** on an **ESP32-CAM**. The model was trained to recognize two physical objects:  
 - **Eraser**  
 - **ESP32 Microcontroller**
