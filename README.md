@@ -32,5 +32,5 @@ No internet. No cloud. Just a tiny camera doing smart stuff all by itself.
 ---
 
 ---
-# For more details, refer to the [Edge Impulse](https://docs.edgeimpulse.com/docs)
+### For more details, refer to the [Edge Impulse](https://docs.edgeimpulse.com/docs)
 ---
